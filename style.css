@@ -129,8 +129,8 @@ main h1 {
 }
 
 .project {
-    display: flex-start;
-    justify-content: start;
+    display: flex-wrap;
+    justify-content: space-between;
     align-items: center;
     background-color: #ACC382;
     border: 2px solid black;
