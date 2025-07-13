@@ -129,7 +129,7 @@ main h1 {
 }
 
 .project {
-    display: flex-wrap;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #ACC382;
